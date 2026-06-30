@@ -60,10 +60,10 @@ All sampler experiments were run offline by Gulam on Google Colab (A100 GPU) acr
 
 ### Figure 4 — Sampler Path Comparison (4-Panel)
 
+<img width="1956" height="985" alt="image (14)" src="https://github.com/user-attachments/assets/dbbc710f-5c81-4067-b8ca-b56395967d46" />
 <img width="1956" height="985" alt="image (17)" src="https://github.com/user-attachments/assets/34c5fe9c-59cc-4dd6-bdea-536908398d7d" />
 <img width="1956" height="985" alt="image (16)" src="https://github.com/user-attachments/assets/1e747f0e-fd51-49d0-9bfb-ae89d192e226" />
 <img width="1956" height="985" alt="image (15)" src="https://github.com/user-attachments/assets/d7a6cb89-f803-45a7-875e-0f16ff819738" />
-<img width="1956" height="985" alt="image (15)" src="https://github.com/user-attachments/assets/af924887-3d0a-4e42-8083-e4aaa2ab9174" />
 
 
 
